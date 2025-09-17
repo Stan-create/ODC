@@ -1,5 +1,5 @@
 # ODC (Остео Дигитал Классификатор | Osteo Digital Classificator)
 <img src="https://github.com/Stan-create/ODC/blob/main/ODC%20logo.png" width="300" height="300">
-- Это проект по использованию сверточной нейронной сети для классификации патологий остеопороза, остеопении и нормальной структуры костей.
+- This is project about CNN using for classification of osteoporosis, osteopenia pathologies and normal structure of bones.
 
-© Станислав Павлович Гаменюк. 2025.
+© Stanislav Pavlovich Gamenyuk. 2025.
